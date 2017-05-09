@@ -60,6 +60,9 @@ Thanks for your interest in contributing to [Decentralization Camp](https://gith
 
 This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [khanna{DOT}praanshu{AT}gmail{DOT}com](mailto:khanna.praanshu@gmail.com).
 
+## License
+This project is licensed under the MIT License - you can see [LICENSE](LICENSE.md) file for details.
+
 ## MozSprint
 
 Join us at the [Mozilla Global Sprint](http://mozilla.github.io/global-sprint/) June 1-2, 2017! We'll be gathering in-person at sites around the world and online to collaborate on this project and learn from each other. [Get your #mozsprint tickets now](http://mozilla.github.io/global-sprint/)!
