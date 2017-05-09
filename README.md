@@ -4,7 +4,7 @@
 
 **One-Stop Shop to know everything about Decentralization**
 
-[ If you have one, add your logo or an image here ]
+![alt text](https://github.com/pransh15/decentralization-camp/blob/master/SchematicDesign/logo_green.png)
 
 ## Welcome!
 
