@@ -11,14 +11,17 @@
 Decentralization must've got you here or curiosity or free time or just your kind contributing self? Whatever it is, we are glad that you're here!
 
 **We need you!**
+
 Yes, **you!**
+
 Why?
+
 Because you are a part of the internet and we want you to help us Decentralize it! So whether you are a curious soul, or a tech expert or a newbie, Read On to know more and join us! :D
 
-- [ What? ](##introduction)
-- [ Why? ](##why-do-we-need-to-do-this?)
-- [ How? ](##How-do-we-plan-to-do-this?)
-- [ You can Help! ](##How-can-you-help?)
+- [ What? ](#introduction)
+- [ Why? ](#why-do-we-need-to-do-this)
+- [ How? ](#how-do-we-plan-to-do-this)
+- [ You can Help! ](#how-can-you-help)
 
 ## Introduction
 For more than a decade, the world has been on the internet and it has evolved to become something really amazing. It's full of resources, knowledge, people and, **cat videos**.
@@ -58,7 +61,7 @@ Thanks for your interest in contributing to [Decentralization Camp](https://gith
 
 ## Participation Guidelines
 
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [khanna{DOT}praanshu{AT}gmail{DOT}com](mailto:khanna.praanshu@gmail.com).
+This project adheres to [Mozilla's Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/). By participating, you are expected to uphold this code. Please report unacceptable behavior to [khanna.praanshu@gmail.com](mailto:khanna.praanshu@gmail.com).
 
 ## License
 This project is licensed under the MIT License - you can see [LICENSE](LICENSE.md) file for details.
